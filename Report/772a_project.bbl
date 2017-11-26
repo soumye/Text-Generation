@@ -1,0 +1,10 @@
+\begin{thebibliography}{1}
+
+\bibitem{geman1984stochastic}
+Stuart Geman and Donald Geman.
+\newblock Stochastic relaxation, gibbs distributions, and the bayesian
+  restoration of images.
+\newblock {\em IEEE Transactions on pattern analysis and machine intelligence},
+  (6):721--741, 1984.
+
+\end{thebibliography}
